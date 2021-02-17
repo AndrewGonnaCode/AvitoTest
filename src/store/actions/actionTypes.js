@@ -1,0 +1,7 @@
+export const RENDER_PHOTO = 'RENDER_PHOTO'
+export const SEND__COMMENT = 'SEND__COMMENT'
+export const SET_IMAGES = 'SET_IMAGES'
+export const GET_IMAGE = 'GET_IMAGE'
+export const SET_DETAIL_IMAGE = 'SET_DETAIL_IMAGE'
+export const CLOSE_MODAL = 'CLOSE_MODAL'
+export const CHANGE_FIELD = 'CHANGE_FIELD'

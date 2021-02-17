@@ -1,0 +1,37 @@
+.form > form {
+  display: flex;
+  flex-direction: column;
+}
+.form > form > input {
+  width: 332px;
+  height: 30px;
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  box-sizing: border-box;
+  border-radius: 3px;
+  outline: none;
+  padding: 12px 22px;
+  margin-bottom: 20px;
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 15px;
+}
+.btn {
+  font-size: 13px;
+  line-height: 15px;
+  text-align: center;
+  padding: 8px 0;
+  width: 332px;
+  height: 30px;
+  background: #4997d0;
+  border-radius: 3px;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: opacity 0.3s ease-in;
+}
+.btn:hover {
+  opacity: 0.8;
+}
